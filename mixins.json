@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.example.betterend.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": ["MixinEndBiomeSource"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
